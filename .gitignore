@@ -27,3 +27,6 @@ out
 *.iml
 */workspace.xml
 bin
+
+.classpath
+.project
